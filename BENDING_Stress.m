@@ -107,7 +107,7 @@ quiver(0,13,20,0,0)
 hold on
 quiver(8,28,0,-7,0) 
 text(8,27,'  10kN');
-text(14,22,'  20kN');
+text(14,22,'  12kN');
 hold on
 quiver(0.2,10,0,10,0)
 text(0.2,10,'  R_A');
